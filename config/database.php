@@ -1,5 +1,5 @@
 <?php
-$db_name='lucifer_caritas';
+$db_name='lucifer_car';
 $db_user='lucifer_uwonda';
 $db_password='@@1980@@';
 
